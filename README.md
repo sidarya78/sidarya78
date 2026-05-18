@@ -26,6 +26,10 @@ An ASP.NET Core hospital operations platform covering patient registration, appo
 - Database-backed hospital modules for patients, billing, reports, and staff workflows
 - SQL schema setup and seeded startup data for faster deployment
 
+ ## Live Applications
+
+- [Hospital Management System Web](https://hms-india.runasp.net/Account/Login)
+
 [Repository](https://github.com/YOUR_GITHUB_USERNAME/hospital-management-system-web)
 
 ### Goa Flat Tracker Web
