@@ -18,22 +18,25 @@ My projects focus on turning manual operations into structured digital systems s
 
 ### Hospital Management System Web
 
-An ASP.NET Core hospital operations platform covering patient registration, appointments, admissions, billing, pharmacy, laboratory, staff management, reports, and role-based access control.
+An ASP.NET core hospital operations platform designed to streamline patient registration, appointments, admissions, billing, pharmacy, laboratory workflows, staff management, and reporting through a unified web-based system.
 
 **Highlights**
-- Cookie-based authentication with permission-driven access
-- Dashboard metrics for admissions, appointments, lab status, medicines, staff, and billing
-- Database-backed hospital modules for patients, billing, reports, and staff workflows
-- SQL schema setup and seeded startup data for faster deployment
+-Claims-based login with permission-driven access control
+-Dashboard metrics for admissions, appointments, billing, lab status, medicines, and staff activity
+-Structured modules for patients, appointments, admissions, pharmacy, laboratory, staff, and reports
+-SQL-backed schema setup with seeded startup data for first-run deployment
+-Built to support practical day-to-day hospital administration workflows
+
+**Availability**
+-Public live app available
+-Source code can be shared through GitHub repositories where applicable
 
  ## Live Applications
-
 - [Hospital Management System Web](https://hms-india.runasp.net/Account/Login)
  **Demo Login**
 - Username: `demo`
 - Password: `Demo@123`
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/hospital-management-system-web)
 
 ### Goa Flat Tracker Web
 
@@ -45,19 +48,25 @@ A project documentation and renovation tracking platform for managing flats, roo
 - User permissions for project editing and administration
 - SQL-backed storage with first-run schema setup
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/goa-flat-tracker-web)
 
-### InventorySystem Web
+### Inventory System Web
 
-A web version of an inventory workflow built to modernize a business-oriented stock and movement management process.
+A web-based inventory management application created to modernize an existing desktop-oriented stock workflow and provide clearer visibility into items, vendors, stock movement, and operational summaries.
 
 **Highlights**
-- Login and dashboard with live inventory counts
-- Read-only modules for vendors, items, stock in, and stock out
-- SQL Server-backed data model
-- Prepared for shared hosting and cloud deployment
+- Login-enabled dashboard with inventory-focused operational visibility
+- Modules for vendors, items, stock in, and stock out
+- SQL Server-backed business workflow design
+- Built to support migration from desktop-style processes into a browser-based system
+- Prepared for hosted and cloud deployment scenarios
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/inventorysystem-web)
+- ## Live Applications
+
+- [Inventory System Web](https://gti-inventory.runasp.net/Account/Login)
+ **Demo Login**
+- Username: `demo`
+- Password: `Demo@123`
+
 
 ### Cafe Portal Web
 
@@ -69,19 +78,22 @@ A customer-facing and operations-facing cafe application for ordering, order tra
 - Billing and delivery dispatch handling
 - Payment integration support with Paytm
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/cafe-portal-web)
 
 ### Invoice Entry App
 
-A VB.NET Windows Forms invoice tool for entering invoices, importing Excel line items, calculating totals, storing records locally, and exporting reports.
+A desktop invoice entry and reporting application built to simplify invoice data capture, Excel-based item import, total calculation, local storage, and item-wise reporting for business users.
 
 **Highlights**
-- SQLite-backed local storage
-- Excel import for invoice items
-- Automatic USD and INR calculations
-- Period-wise item summary reporting and Excel export
+- Built with VB.NET Windows Forms for a fast desktop workflow
+- SQLite-backed local data storage
+- Excel import support for invoice line items
+- Automatic USD and INR value calculation
+- Summary reporting with export support for operational use
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/invoice-entry-app)
+**Availability**
+Portfolio project
+Source code and packaged desktop build can be shared where applicable
+
 
 ### Customer Feedback Web
 
@@ -92,7 +104,6 @@ A feedback capture platform for collecting customer responses and turning them i
 - SQL-backed persistence
 - Designed for internal business review and operational follow-up
 
-[Repository](https://github.com/YOUR_GITHUB_USERNAME/customer-feedback-web)
 
 ## Tech Stack
 
