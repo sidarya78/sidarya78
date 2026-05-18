@@ -29,6 +29,9 @@ An ASP.NET Core hospital operations platform covering patient registration, appo
  ## Live Applications
 
 - [Hospital Management System Web](https://hms-india.runasp.net/Account/Login)
+ **Demo Login**
+- Username: `demo`
+- Password: `Demo@123`
 
 [Repository](https://github.com/YOUR_GITHUB_USERNAME/hospital-management-system-web)
 
