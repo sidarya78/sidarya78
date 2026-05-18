@@ -62,7 +62,7 @@ A web-based inventory management application created to modernize an existing de
 
 - ## Live Applications
 
-- [Inventory System Web](https://gti-inventory.runasp.net/Account/Login)
+- [Inventory System Web](https://inventory-webdemo.runasp.net/Account/Login)
  **Demo Login**
 - Username: `demo`
 - Password: `Demo@123`
