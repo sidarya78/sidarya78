@@ -113,7 +113,7 @@ A feedback capture platform for collecting customer responses and turning them i
 - Portfolio: `Add your portfolio URL here`
 - GitHub: `https://github.com/sidarya78`
 - LinkedIn: `Add your LinkedIn URL here`
-- Email: `Add your professional email here`
+- Email: `siddharth@trinitytechsolutions.co.in`
 
 ---
 
