@@ -1,138 +1,82 @@
-# Hi, I'm Siddharth Arya
+<h1 align="center">Hi, I'm Siddharth Arya</h1>
+<h3 align="center">IT Manager • Software Developer • MBA • Creative Technologist</h3>
 
-I build practical software systems for real business workflows and also create 3D visuals using `ASP.NET Core`, `C#`, `VB.NET`, `SQL Server`, `SQLite`, `Razor Pages`, `Windows Forms`, and `Cinema 4D`.
+<p align="center">
+  <a href="https://github.com/sidarya78">
+    <img src="https://img.shields.io/badge/GitHub-sidarya78-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@YOUR-CHANNEL-HANDLE">
+    <img src="https://img.shields.io/badge/YouTube-Trinity%20Animations--Life%20in%20Christ-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
+</p>
 
-My projects focus on turning manual operations into structured digital systems such as hospital workflows, inventory control, invoice processing, customer feedback, renovation tracking, and business reporting dashboards. Alongside software development, I also work on `3D modelling`, `animation`, and `product visualization` in `Cinema 4D`.
-
-## What I Build
-
-- Business management systems with authentication, dashboards, and reporting
-- Web applications for operations, billing, and workflow automation
-- Desktop tools for office productivity and data entry
-- SQL-backed systems designed for day-to-day operational use
-- 3D product visualization and presentation assets
-- Motion graphics and 3D animation for product and brand storytelling
-- Practical software that solves real process problems instead of demo-only concepts
-
-## Featured Projects
-
-### Hospital Management System Web
-
-An ASP.NET core hospital operations platform designed to streamline patient registration, appointments, admissions, billing, pharmacy, laboratory workflows, staff management, and reporting through a unified web-based system.
-
-**Highlights**
--Claims-based login with permission-driven access control
--Dashboard metrics for admissions, appointments, billing, lab status, medicines, and staff activity
--Structured modules for patients, appointments, admissions, pharmacy, laboratory, staff, and reports
--SQL-backed schema setup with seeded startup data for first-run deployment
--Built to support practical day-to-day hospital administration workflows
-
-**Availability**
--Public live app available
--Source code can be shared through GitHub repositories where applicable
-
- ## Live Applications
-- [Hospital Management System Web](https://hms-india.runasp.net/Account/Login)
- **Demo Login**
-- Username: `demo`
-- Password: `Demo@123`
-
-
-### Goa Flat Tracker Web
-
-Private client project for renovation tracking, room-wise image documentation, and structured project records. Live deployment not publicly available.
-
-**Highlights**
-- Main project and room-wise subproject structure
-- Multiple image upload and retrieval workflow
-- User permissions for project editing and administration
-- SQL-backed storage with first-run schema setup
-
-
-### Inventory System Web
-
-A web-based inventory management application created to modernize an existing desktop-oriented stock workflow and provide clearer visibility into items, vendors, stock movement, and operational summaries.
-
-**Highlights**
-- Login-enabled dashboard with inventory-focused operational visibility
-- Modules for vendors, items, stock in, and stock out
-- SQL Server-backed business workflow design
-- Built to support migration from desktop-style processes into a browser-based system
-- Prepared for hosted and cloud deployment scenarios
-
-- ## Live Applications
-
-- [Inventory System Web](https://inventory-webdemo.runasp.net/Account/Login)
- **Demo Login**
-- Username: `demo`
-- Password: `Demo@123`
-
-
-### Cafe Portal Web
-
-Private client project for cafe ordering, kitchen workflow, billing, and delivery operations. Live deployment not publicly available.
-
-**Highlights**
-- Public ordering and order-status tracking
-- Staff and kitchen workflow support
-- Billing and delivery dispatch handling
-- Payment integration support with Paytm
-
-
-### Invoice Entry App
-
-A desktop invoice entry and reporting application built to simplify invoice data capture, Excel-based item import, total calculation, local storage, and item-wise reporting for business users.
-
-**Highlights**
-- Built with VB.NET Windows Forms for a fast desktop workflow
-- SQLite-backed local data storage
-- Excel import support for invoice line items
-- Automatic USD and INR value calculation
-- Summary reporting with export support for operational use
-
-**Availability**
-Portfolio project
-Source code and packaged desktop build can be shared where applicable
-
-
-### Customer Feedback Web
-
-Private client project for feedback capture platform for collecting customer responses and turning them into structured business data. Live deployment not publicly available.
-
-**Highlights**
-- Web-based data capture workflow
-- SQL-backed persistence
-- Designed for internal business review and operational follow-up
-
-
-## Tech Stack
-
-`ASP.NET Core` `C#` `VB.NET` `SQL Server` `SQLite` `Razor Pages` `Windows Forms` `Authentication` `RBAC` `Excel Import/Export` `Cinema 4D` `3D Modelling` `Animation` `Product Visualization`
-
-## Focus Areas
-
-- Workflow automation
-- CRUD systems with clean business logic
-- Operational dashboards and reporting
-- Role-based access control
-- Hosting and deployment support
-- 3D presentation and product-focused visual storytelling
-- Software built around practical business use cases
-
-## Current Direction
-
-- Expanding business software systems for web deployment
-- Improving deployment readiness for shared hosting and cloud hosting
-- Strengthening full-stack portfolio presentation with real project case studies
-- Showcasing a combined profile across software engineering and 3D visualization work
-
-## Connect
-
-- Portfolio: `Add your portfolio URL here`
-- GitHub: `https://github.com/sidarya78`
-- LinkedIn: `Add your LinkedIn URL here`
-- Email: `siddharth@trinitytechsolutions.co.in`
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-Business%20Apps-512BD4?style=flat-square&logo=dotnet" />
+  <img src="https://img.shields.io/badge/C%23-%20VB.NET-68217A?style=flat-square&logo=csharp" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Workflow%20Systems-CC2927?style=flat-square&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/Cinema%204D-3D%20Visuals-011A6A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blender-Animation-F5792A?style=flat-square&logo=blender" />
+  <img src="https://img.shields.io/badge/AI-Productivity%20Workflows-111111?style=flat-square" />
+</p>
 
 ---
 
-If you use this as your GitHub profile README, create a repository with the exact same name as your GitHub username and place this file there as `README.md`.
+## About Me
+
+I’m a **Computer Science engineer, MBA, IT Manager, and software developer** with experience leading IT operations, administration, and business process improvement across a head office and two manufacturing plants.
+
+I build **practical business software** using **ASP.NET Core, C#, VB.NET, SQL Server, Razor Pages, Windows Forms, and SQLite**, with a strong focus on workflow automation, reporting systems, inventory platforms, billing tools, and operational efficiency.
+
+Alongside software and IT leadership, I also work in **AI, 3D modelling, product visualization, and animation** using **Cinema 4D** and **Blender**. I’m also the creator of the **YouTube channel _Trinity Animations-Life in Christ_**, where I publish animation-based visual storytelling content.
+
+---
+
+## Highlights
+
+- Lead end-to-end IT operations for a head office and 2 manufacturing plants
+- Build real-world web and desktop applications for business workflows
+- Combine software, administration, and business thinking to solve operational problems
+- Create 3D visuals, animation, and presentation-ready creative assets
+- Explore AI-enabled workflows for productivity and digital transformation
+- Create animation and storytelling content for YouTube
+
+---
+
+## Core Stack
+
+### Software & Systems
+`ASP.NET Core` `C#` `VB.NET` `SQL Server` `SQLite` `Razor Pages` `Windows Forms` `HTML` `CSS` `JavaScript`
+
+### Creative & Visual
+`Cinema 4D` `Blender` `3D Modelling` `Product Visualization` `Animation` `Content Creation`
+
+### Strength Areas
+`IT Management` `Administration` `Workflow Automation` `Business Applications` `Reporting Systems` `AI Productivity`
+
+---
+
+## Current Focus
+
+- Building practical software for real business operations
+- Improving workflows through structured digital systems
+- Combining AI, software, and visual communication
+- Creating meaningful animation and content experiences
+
+---
+
+## Featured Work
+
+- **Business Applications:** Inventory systems, hospital management, invoice tools, workflow platforms
+- **IT Leadership:** Multi-location IT operations, support, systems continuity, process improvement
+- **Creative Work:** 3D modelling, product visualization, animation, YouTube content creation
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/sidarya78](https://github.com/sidarya78)
+- **LinkedIn:** [Add your LinkedIn profile link here](www.linkedin.com/in/siddharth-arya-jld)
+- **YouTube:** [Trinity Animations-Life in Christ](http://www.youtube.com/@TrinityAnimations-LifeInChrist))
