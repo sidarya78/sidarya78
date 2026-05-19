@@ -40,7 +40,7 @@ An ASP.NET core hospital operations platform designed to streamline patient regi
 
 ### Goa Flat Tracker Web
 
-A project documentation and renovation tracking platform for managing flats, rooms, remarks, and image-based visual records.
+Private client project for renovation tracking, room-wise image documentation, and structured project records. Live deployment not publicly available.
 
 **Highlights**
 - Main project and room-wise subproject structure
@@ -70,7 +70,7 @@ A web-based inventory management application created to modernize an existing de
 
 ### Cafe Portal Web
 
-A customer-facing and operations-facing cafe application for ordering, order tracking, kitchen workflow, billing, and delivery updates.
+Private client project for cafe ordering, kitchen workflow, billing, and delivery operations. Live deployment not publicly available.
 
 **Highlights**
 - Public ordering and order-status tracking
@@ -97,7 +97,7 @@ Source code and packaged desktop build can be shared where applicable
 
 ### Customer Feedback Web
 
-A feedback capture platform for collecting customer responses and turning them into structured business data.
+Private client project for feedback capture platform for collecting customer responses and turning them into structured business data. Live deployment not publicly available.
 
 **Highlights**
 - Web-based data capture workflow
