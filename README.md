@@ -78,5 +78,5 @@ Alongside software and IT leadership, I also work in **AI, 3D modelling, product
 ## Connect
 
 - **GitHub:** [github.com/sidarya78](https://github.com/sidarya78)
-- **LinkedIn:** [Add your LinkedIn profile link here](www.linkedin.com/in/siddharth-arya-jld)
-- **YouTube:** [Trinity Animations-Life in Christ](http://www.youtube.com/@TrinityAnimations-LifeInChrist))
+- **LinkedIn:** [www.linkedin.com/in/siddharth-arya-jld)
+- **YouTube:** [Trinity Animations-Life in Christ](http://www.youtube.com/@TrinityAnimations-LifeInChrist)
