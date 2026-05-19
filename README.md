@@ -5,10 +5,10 @@
   <a href="https://github.com/sidarya78">
     <img src="https://img.shields.io/badge/GitHub-sidarya78-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/siddharth-arya-jld/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@YOUR-CHANNEL-HANDLE">
+  <a href="https://www.youtube.com/@TrinityAnimations-LifeInChrist">
     <img src="https://img.shields.io/badge/YouTube-Trinity%20Animations--Life%20in%20Christ-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
 </p>
