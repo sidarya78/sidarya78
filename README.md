@@ -5,7 +5,7 @@
   <a href="https://github.com/sidarya78">
     <img src="https://img.shields.io/badge/GitHub-sidarya78-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/www.linkedin.com/in/siddharth-arya-jld/">
+  <a href="https://www.linkedin.com/in/siddharth-arya-jld/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@TrinityAnimations-LifeInChrist">
