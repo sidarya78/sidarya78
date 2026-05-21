@@ -51,7 +51,7 @@ Alongside software and IT leadership, I also work in **AI, 3D modelling, product
 `ASP.NET Core` `C#` `VB.NET` `SQL Server` `SQLite` `Razor Pages` `Windows Forms` `HTML` `CSS` `JavaScript`
 
 ### Creative & Visual
-`Cinema 4D` `Blender` 'Maya' `3D Modelling` `Product Visualization` `Animation` `Content Creation`
+`Cinema 4D` `Blender` Maya `3D Modelling` `Product Visualization` `Animation` `Content Creation`
 
 ### Strength Areas
 `IT Management` `Administration` `Workflow Automation` `Business Applications` `Reporting Systems` `AI Productivity`
