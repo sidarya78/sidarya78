@@ -26,11 +26,11 @@
 
 ## About Me
 
-I’m a **Computer Science engineer, MBA, IT Manager, and software developer** with experience leading IT operations, administration, and business process improvement across a head office and two manufacturing plants.
+I’m a **Freelance Developer & 3D Artist** 
 
 I build **practical business software** using **ASP.NET Core, C#, VB.NET, SQL Server, Razor Pages, Windows Forms, and SQLite**, with a strong focus on workflow automation, reporting systems, inventory platforms, billing tools, and operational efficiency.
 
-Alongside software and IT leadership, I also work in **AI, 3D modelling, product visualization, and animation** using **Cinema 4D** and **Blender**. I’m also the creator of the **YouTube channel _Trinity Animations-Life in Christ_**, where I publish animation-based visual storytelling content.
+Alongside software and IT leadership, I also work in **AI, 3D modelling, product visualization, and animation** using **Cinema 4D, Blender** and **Maya**. I’m also the creator of the **YouTube channel _Trinity Animations-Life in Christ_**, where I publish animation-based visual storytelling content.
 
 ---
 
