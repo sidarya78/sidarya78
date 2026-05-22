@@ -34,13 +34,7 @@ I build recruiter-ready ASP.NET Core business applications focused on real opera
 - Deployment-oriented development for practical business usage, shared hosting, and cloud-ready environments
 If you want to keep your README more visual, you can also do this:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Business%20Apps-512BD4?style=flat-square&logo=dotnet" />
-</p>
 
-<p>
-I build recruiter-ready ASP.NET Core business applications focused on real operational workflows including inventory, hospital systems, customer feedback, renovation tracking, reporting, and internal business tools.
-</p>
   <img src="https://img.shields.io/badge/C%23-%20VB.NET-68217A?style=flat-square&logo=csharp" />
   <img src="https://img.shields.io/badge/SQL%20Server-Workflow%20Systems-CC2927?style=flat-square&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Cinema%204D-3D%20Visuals-011A6A?style=flat-square" />
