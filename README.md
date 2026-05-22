@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-  <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Business%20Apps-512BD4?style=flat-square&logo=dotnet" />
+   <img src="https://img.shields.io/badge/ASP.NET%20Core-Business%20Apps-512BD4?style=flat-square&logo=dotnet" />
 </p>
 
 ## ASP.NET Core Business Apps
