@@ -14,7 +14,27 @@
 </p>
 
 <p align="center">
+  <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-Business%20Apps-512BD4?style=flat-square&logo=dotnet" />
+</p>
+
+## ASP.NET Core Business Apps
+
+I build recruiter-ready ASP.NET Core business applications focused on real operational needs rather than demo-only concepts. My work turns manual business processes into secure, database-driven systems for inventory control, hospital workflows, customer feedback, renovation tracking, reporting, and internal operations.
+
+### What These Apps Cover
+- Inventory and stock management systems with dashboards, stock movement, purchase orders, debit notes, and ledger reporting
+- Hospital management platforms for patients, appointments, admissions, billing, pharmacy, laboratory, staff, and administration
+- Customer feedback workflows with web-based submission, admin review, PDF generation, and structured follow-up
+- Project and renovation tracking tools with room-wise records, image-based documentation, and user-level permissions
+- Internal business portals designed for daily operational use with reliable SQL-backed workflows
+
+### Core Capabilities
+- Cookie-based authentication and role-based access control
+- ASP.NET Core Razor Pages architecture for clean business workflows
+- SQL Server-backed systems with runtime schema setup and persistent data handling
+- Dashboards, reports, import/export flows, and workflow-driven CRUD modules
+- Deployment-oriented development for practical business usage, shared hosting, and cloud-ready environments
   <img src="https://img.shields.io/badge/C%23-%20VB.NET-68217A?style=flat-square&logo=csharp" />
   <img src="https://img.shields.io/badge/SQL%20Server-Workflow%20Systems-CC2927?style=flat-square&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Cinema%204D-3D%20Visuals-011A6A?style=flat-square" />
